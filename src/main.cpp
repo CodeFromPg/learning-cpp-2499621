@@ -2,7 +2,7 @@
 
 int main()
 {
-  std::cout << "Hallo Welt! Es geht du geiler Typ" << std::endl;
-
+  //Ich bin eine Notiz.
+  std::cout << "Hallo mein Name ist Patrick." << std::endl;
   return 0;
 }
